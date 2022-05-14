@@ -3,7 +3,7 @@
 ### Hi! 👋 I'm a Information System Engineering Student
 
 # Github Status
-![Github Status](https://github-readme-stats.vercel.app/api?username=fuakim&count_private=true&show_icons=true&theme=react)
+![Github Status](https://github-readme-stats.vercel.app/api?username=L3NNYN&count_private=true&show_icons=true&theme=react)
 
  ## Currently working with
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
